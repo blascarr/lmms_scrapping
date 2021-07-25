@@ -14,5 +14,10 @@ LMMS has a huge library with sounds published that anybody can download, but it'
 
 Therefore this script has been created to download in one folder this resources and begin to produce music.
 
+## Requirements
+
+sudo pip install wget
+sudo pip install beautifulsoup4
+
 [LMMS_rsc]: /src/lmms_resources.png
 [LMMS_rsc_section]: /src/lmms_resources_section.png
