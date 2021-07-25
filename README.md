@@ -16,8 +16,10 @@ Therefore this script has been created to download in one folder this resources 
 
 ## Requirements
 
+```
 sudo pip install wget
 sudo pip install beautifulsoup4
+```
 
 [LMMS_rsc]: /src/lmms_resources.png
 [LMMS_rsc_section]: /src/lmms_resources_section.png
